@@ -2,7 +2,7 @@
 
   'use strict';
 
-  angular.module('paymentEstimator')
+  angular.module('myModule')
     .directive('currencyInput', CurrencyInputDirective)
 
   /** @ngInject */
